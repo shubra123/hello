@@ -1,1 +1,3 @@
 # hello
+HI there !! Here it is my first repository !!
+I am glad I am here....
